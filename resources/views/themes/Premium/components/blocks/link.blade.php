@@ -1,0 +1,1 @@
+<a href="" class="text-md text-blue-400 font-semibold hover:text-blue-500 underline">Create New Link</a>

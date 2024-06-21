@@ -1,0 +1,64 @@
+{
+    "blocks": [
+        {
+            "id": "h1",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'>H1</div>",
+            "content": "Premium.components.blocks.heading1",
+            "category": "Text"
+        },
+        {
+            "id": "menu-link",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'><i class='ri-link'></i></div>",
+            "content": "Premium.components.blocks.menu",
+            "category": "Menu"
+        },
+        {
+            "id": "image",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'><i class='ri-file-image-line'></i></div>",
+            "content": "Premium.components.blocks.image",
+            "category": "Image"
+        },
+        {
+            "id": "h2",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'>H2</div>",
+            "content": "Premium.components.blocks.heading2",
+            "category": "Text"
+        },
+        {
+            "id": "h3",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'>H3</div>",
+            "content": "Premium.components.blocks.heading3",
+            "category": "Text"
+        },
+        {
+            "id": "h4",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'>H4</div>",
+            "content": "Premium.components.blocks.heading4",
+            "category": "Text"
+        },
+        {
+            "id": "h5",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'>H5</div>",
+            "content": "Premium.components.blocks.heading5",
+            "category": "Text"
+        },
+        {
+            "id": "h6",
+            "label": "<div class='w-full h-[80px] text-[2em] gap-4 flex justify-center items-center flex-col border'>H6</div>",
+            "content": "Premium.components.blocks.heading6",
+            "category": "Text"
+        },
+        {
+            "id": "code",
+            "label": "<div class='w-full h-[80px] text-[1.8em] p-2 gap-4 flex justify-center items-center flex-col border'><i class='ri-code-block'></i> Code</div>",
+            "content": "Premium.components.blocks.code",
+            "category": "Code"
+        },
+        {
+            "id": "paragraf",
+            "label": "<div class='w-full h-[80px] text-[1em] p-2 gap-4 flex justify-center items-center flex-col border'>Paragraf</div>",
+            "content": "Premium.components.blocks.paragraf",
+            "category": "Text"
+        }
+    ]
+}
